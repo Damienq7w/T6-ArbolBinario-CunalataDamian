@@ -163,6 +163,8 @@ T6-ArbolBinario-CunalataDamian/
 │   │   └── ArbolBinario.java    → reglas de inserción y operaciones recursivas
 │   └── app/
 │       └── Main.java            → menú con Scanner y casos de prueba
+├── doc/
+│   └── T6_ArbolBinario_Cunalata.pdf → documento del informe de la tarea
 ├── img/                         → capturas de ejecución
 ├── .gitignore                   → excluye bin/ y archivos .class
 └── README.md
